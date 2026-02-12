@@ -1,7 +1,5 @@
 # Hey everyone.
 
----
-
 * 🔨 I'm a Software Development student at **BYU-Idaho** and **Unifacisa**.
 * 📮 How to reach me:
 
